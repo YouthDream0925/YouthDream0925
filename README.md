@@ -1,6 +1,13 @@
 
 ## 👋 Hi , Everyone. 
 I am a Senior Software engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
+---
+
 ## Languages and Tools:
 
 <!-- Your github readme stats
