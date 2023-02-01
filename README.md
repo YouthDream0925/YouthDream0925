@@ -44,8 +44,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/YouthDream0925/HydroDongle">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-    ![alt text](https://github.com/YouthDream0925/HydroDongle/blob/hydra_dongle.png?raw=true)
+    <img align="center" src="https://github.com/YouthDream0925/HydroDongle/blob/hydra_dongle.png" />
   </a>
   <a href="https://github.com/YouthDream0925/JobSheet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
