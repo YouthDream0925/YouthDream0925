@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
 
+I'm a Senior Software Engineer. I've strong experienced in Web&Mobile App development over 6 years. I am very familiar with ASP.NET/C#, Python, PHP and React/Hook, Angular, Vue. I always want to my all projects perfectly with 0 Bugs, 0 Errors. The most important thing in my business is trust not money. Let's make our lives happy!
+
 ## Languages and Tools:
 
 <!-- Your github readme stats
