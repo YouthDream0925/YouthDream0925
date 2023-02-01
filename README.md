@@ -8,7 +8,7 @@
 
 I'm a Senior Software Engineer. I've strong experienced in Web&Mobile App development over 6 years. I am very familiar with ASP.NET/C#, Python, PHP and React/Hook, Angular, Vue. I always want to my all projects perfectly with 0 Bugs, 0 Errors. The most important thing in my business is trust not money. Let's make our lives happy!
 
-## Languages and Tools:
+**Languages and Tools:**
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
