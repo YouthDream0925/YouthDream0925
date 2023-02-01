@@ -44,9 +44,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- Its main projects -->
 <p align="center">
   <a href="https://github.com/YouthDream0925/HydroDongle">
-    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/HydroDongle/main/blob/hydra_dongle.png" />
+    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/hydra_dongle.png" />
   </a>
   <a href="https://github.com/YouthDream0925/JobSheet">
-    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/HydroDongle/main/blob/jobsheet.png" />
+    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/jobsheet.png" />
   </a>
 </p>
