@@ -9,7 +9,7 @@ I am a computer science engineer and have experience in working in many startups
 - 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
 <hr />
-**Languages and Tools:** 
+## Languages and Tools:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
