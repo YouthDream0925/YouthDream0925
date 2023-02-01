@@ -1,3 +1,16 @@
+<style>
+h1 {
+    background-image: url(./image.gif);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#image_container {
+    display: flex !important;
+}
+</style>
 
 ## 👋 Hi , Everyone. 
 I am a Senior Software engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
@@ -45,6 +58,12 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 ---
 
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
+<!-- Its main projects -->
+<p id="image_container" align="center">
+  <a href="https://github.com/YouthDream0925/HydroDongle">
+    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/hydra_dongle.png" />
+  </a>
+  <a href="https://github.com/YouthDream0925/JobSheet">
+    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/jobsheet.png" />
+  </a>
+</p>
