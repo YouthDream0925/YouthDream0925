@@ -2,10 +2,6 @@
 ## 👋 Hi , Everyone. 
 I am a Senior Software engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
 
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
 ---
 
 ## Languages and Tools:
@@ -49,12 +45,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 ---
 
-<!-- Its main projects -->
-<p align="center" style="display: flex !important;">
-  <a href="https://github.com/YouthDream0925/HydroDongle">
-    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/hydra_dongle.png" />
-  </a>
-  <a href="https://github.com/YouthDream0925/JobSheet">
-    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/jobsheet.png" />
-  </a>
-</p>
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>

@@ -17,6 +17,14 @@
             }
             </style>
             <h1>HELLO WORLD!</h1>
+            <p align="center" style="display: flex !important;">
+                <a href="https://github.com/YouthDream0925/HydroDongle">
+                    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/hydra_dongle.png" />
+                </a>
+                <a href="https://github.com/YouthDream0925/JobSheet">
+                    <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/jobsheet.png" />
+                </a>
+            </p>
         </div>
     </foreignObject>
 </svg>
