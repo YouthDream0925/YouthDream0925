@@ -43,7 +43,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 <!-- Its main projects -->
-<p align="center" style="display: flex;">
+<p align="center" style="display: flex !important;">
   <a href="https://github.com/YouthDream0925/HydroDongle">
     <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/hydra_dongle.png" />
   </a>
