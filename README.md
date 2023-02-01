@@ -50,6 +50,3 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
   </a>
 </p>
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
