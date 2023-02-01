@@ -8,7 +8,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=YouthDream0925&show_icons=true&hide_border=true" />
+    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats) -->
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -42,7 +43,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 <!-- Its main projects -->
-<p align="center">
+<p align="center" style="display: flex;">
   <a href="https://github.com/YouthDream0925/HydroDongle">
     <img align="center" src="https://raw.githubusercontent.com/YouthDream0925/YouthDream0925/main/blob/hydra_dongle.png" />
   </a>
