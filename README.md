@@ -4,35 +4,28 @@
 
 <br/>
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Senior+Software+Developer;" style="max-width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Senior+Software+Engineer;" style="max-width: 100%;">
 </div>
 <br/>
 
-<p>Plus 10 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
+<p>Plus 10 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 
-- Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
-- Frontend Mobile development: React Native, Flutter
-- UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
+- Frontend : React.js, Next.js, Vue.js, Nuxt.js
+- Backend : Python/Django, PHP/Laravel, ASP.NET/C#
 
-Very good experienced Javascript, Typescript developer.
-Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
-I am good at backend also not only frontend.
+Very good experienced API developer.
+I am a passionate developer so I can do anything. **Nothing is impossible**, This is my notion.
 
-Prefer challenge jobs that need to learn more knowledge. 
-Will fast learn new technologies and take part in new challenges in short time.
-
-Looking forward hearing from you about new job opportunity.
-Thanks for checking my profile.</p>
+Thank you.</p>
 
 <br>
 <table>
 <tr>
 <td>
-Gmail 1
+Gmail
 </td>
 <td>
-Gmail 2
+OutLook
 </td>
 <td>
 Skype
@@ -43,16 +36,16 @@ Discord
 </tr>
 <tr>
 <td>
-    lovetom.pro@gmail.com
+    youthdream0925@gmail.com
 </td>
 <td>
-    jinweiooi0223@gmail.com 
+    youthdream0925@outlook.com
 </td>
 <td>
-    live:.cid.6734401aa3d79e1e
+    live:.cid.7bfde7022e4c31ee
 </td>
 <td>
-    Tom Love#0094
+    Big Dream#0094
 </td>
 </tr>
 </table>
@@ -72,14 +65,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
 - IBM Cloud (formerly SoftLayer)
 - Oracle Cloud
 - Heroku
-
-#### Blockchain Development
-- Ethereum, Solana, Polygon...
-- Solidity, Rust, C++, Web 3, Remix, Truffle
-- Creating fungible/non-fungible tokens with Standards (ERC20, ERC721, ERC1155, BEP20...), Crypto currency development
-- DAO, DEX, AMM, Yield Farming, Staking dApps
-- NFT marketplace, NFT minting
-- Trading bot, NFT mint bot, Opensea sniper bot, Opensea offer bot
 
 #### AI | ML | DL
 - Python, Numpy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, OpenCV, Keras, Theano, PyTorch
