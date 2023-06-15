@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-<p>Plus 10 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>Plus 6 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 
 - Frontend : React.js, Next.js, Vue.js, Nuxt.js
 - Backend : Python/Django, PHP/Laravel, ASP.NET/C#
