@@ -100,19 +100,11 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
-      </p>
       <p align="center">
-          
-  <a href="https://github.com/YouthDream0925/PetDog-Complete-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://petdogwebsite.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/YouthDream0925/HydroDongle" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
+        <a href="https://hydradongle.com" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
