@@ -108,16 +108,18 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">eFresh Groceries Website</h3>
+      <h3 align="center">Android Root Tool Website</h3>
         <br />
-      <a target="_blank" href="https://efreshgroceries.netlify.app">
-            <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
+      <a target="_blank" href="https://androidroottool.com/">
+            <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/androidroottool.png" width="100%"  alt="Android Root Tool Website"/>
         </a>
         <br />
-        <p><strong>This is a website to buy groceries. </strong></p>
+        <p><strong>This is a website to active andriod licence for Hydra Android Tool. </strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
+        <a href="https://laravel.com/img/logomark.min.svg" target="_blank" rel="noreferrer"></a>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
