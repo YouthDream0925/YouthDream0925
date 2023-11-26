@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-<p>Plus 10 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>Plus 6 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 
 - Frontend : React.js, Next.js, Vue.js, Nuxt.js
 - Backend : Python/Django, PHP/Laravel, ASP.NET/C#
@@ -51,7 +51,7 @@ Discord
 </table>
 
 #### Frontend and Backend Development
-- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
+- HTML5, CSS3, JavaScript, Typescript, PHP, Node.js, Python, Dart, C++
 - React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
 - Codeigniter, Laravel, Express, Nest.js, Ruby on Rails, Gin, Django
 
