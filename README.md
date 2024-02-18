@@ -91,15 +91,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         </a>
         <br />
         <p><strong>This is a website to active user licence for Hydra Tool.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-        <img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-      </p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/HydroDongle" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>   -->
@@ -115,16 +106,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         </a>
         <br />
         <p><strong>This is a website to active andriod licence for Hydra Android Tool. </strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-        <img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-      </p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/AndroidRootTool" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
@@ -144,15 +125,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </a>
       <br />
       <p><strong>This is a website to manage job schedule for Culture Digital.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-        <img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-      </p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/JobSheet" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/> -->
@@ -165,20 +137,11 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">Imaigination Avatar Generator</h3>
       <br />
-      <div style="width: 200px; height: 200px">
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.imaigination.avatar" style="display: flex; justify-content: center">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/imaigination_avatar_generator.webp" width="100%" alt="Imaigination Avatar Generator" style="max-width: 53%;" />
+          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/imaigination_avatar_generator.webp" width="100%" alt="Imaigination Avatar Generator" />
         </a>
-      </div>
       <br />
         <p><strong>This is an AI mobile app to generate AI avatars.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-        </a>
-      </p>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.imaigination.avatar" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Mobile&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
@@ -195,16 +158,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         </a>
         <br />
         <p><strong>This is a dental clinic website.</strong></p>
-        <p align="left">
-          <strong> Technologies used </strong>
-          <br/>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-          <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-          <img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-        </p>
         <p align="center">
           <!-- <a href="https://github.com/YouthDream0925/DentalClinic-Website" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
@@ -222,15 +175,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         </a>
       <br />
       <p><strong>This is an interior design website.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-      </p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/Interior-Design-Website" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
@@ -250,14 +194,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </a>
       <br />
       <p><strong>This is a UI Assignment.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      </p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/UI-Assignment" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
@@ -275,13 +211,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </a>
       <br />
       <p><strong>This is a calculator with a light/dark mode.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      </p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/calculator-light-dark-mode" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
