@@ -31,7 +31,7 @@ OutLook
 Skype
 </td>
 <td>
-Discord
+Telegram
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ Discord
     live:.cid.7bfde7022e4c31ee
 </td>
 <td>
-    Big Dream#0094
+    @BigDream0925
 </td>
 </tr>
 </table>
