@@ -90,7 +90,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
           <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/Imaigination_avatar_generator.png" width="100%" alt="Imaigination Avatar Generator" />
         </a>
       <br />
-        <p><strong>This is an AI mobile app to generate AI avatars.</strong></p>
+        <p><strong>This is a mobile app to generate AI avatars.</strong></p>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.imaigination.avatar" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Mobile&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
