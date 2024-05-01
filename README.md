@@ -55,7 +55,6 @@ Telegram
 </tr>
 </table>
 
-<h1 align="center">Projects</h1> 
 <table>  
   <tr>
     <td width="50%" valign="top">
