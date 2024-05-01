@@ -24,6 +24,8 @@ Thank you.</p>
 <a href="https://stackoverflow.com/users/20877284/youth-dream"><img src="https://stackexchange.com/users/flair/27371279.png" width="208" height="58" alt="profile for Youth Dream on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Youth Dream on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 <br>
+
+<div style="display: flex; width: 100%; align-items: center; justify-content: center;">
 <table>
 <tr>
 <td>
@@ -54,6 +56,7 @@ Telegram
 </td>
 </tr>
 </table>
+</div>
 
 <table>  
   <tr>
