@@ -32,9 +32,6 @@ Thank you.</p>
 Gmail
 </td>
 <td>
-OutLook
-</td>
-<td>
 Skype
 </td>
 <td>
@@ -47,9 +44,6 @@ Discord
 <tr>
 <td>
     youthdream0925@gmail.com
-</td>
-<td>
-    youthdream0925@outlook.com
 </td>
 <td>
     live:.cid.7bfde7022e4c31ee
