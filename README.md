@@ -40,6 +40,9 @@ Skype
 <td>
 Telegram
 </td>
+<td>
+Discord
+</td>
 </tr>
 <tr>
 <td>
@@ -53,6 +56,9 @@ Telegram
 </td>
 <td>
     @BigDream0925
+</td>
+<td>
+    @youthdream0925
 </td>
 </tr>
 </table>
