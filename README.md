@@ -25,7 +25,7 @@ Thank you.</p>
 
 <br>
 
-<div style="display: flex; width: 100%; align-items: center; justify-content: center;">
+<div width="100%">
 <table>
 <tr>
 <td>
