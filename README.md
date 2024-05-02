@@ -25,7 +25,7 @@ Thank you.</p>
 
 <br>
 
-<div width="100%">
+<div width="100%" display="flex">
 <table>
 <tr>
 <td>
