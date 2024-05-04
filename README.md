@@ -18,13 +18,6 @@ I am a passionate developer so I can do anything. **Nothing is impossible**, Thi
 
 Thank you.</p>
 
-
-<br>
-
-<a href="https://stackoverflow.com/users/20877284/youth-dream"><img src="https://stackexchange.com/users/flair/27371279.png" width="208" height="58" alt="profile for Youth Dream on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Youth Dream on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
-<br>
-
 <div style="width: 100%; display: flex; align-items: center; justify-content: center;">
 <table>
 <tr>
