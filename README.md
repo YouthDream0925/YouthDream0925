@@ -102,18 +102,18 @@ Discord
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">JobSheet Website</h3>
+      <h3 align="center">Gallerai Art</h3>
       <br />
       <a target="_blank" href="https://accesso.wp2reluis.com/">
-        <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/jobsheet.png" width="100%" alt="eShop Website"/>
+        <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/gallerai.png" width="100%" alt="eShop Website"/>
       </a>
       <br />
-      <p><strong>This is a website to manage job schedule for Culture Digital.</strong></p>
+      <p><strong>This is a Generative AI & Blockchain website.</strong></p>
       <p align="center">
         <!-- <a href="https://github.com/YouthDream0925/JobSheet" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/> -->
         </a>
-        <a href="https://accesso.wp2reluis.com/login" target="_blank">
+        <a href="https://gallerai.ai" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
