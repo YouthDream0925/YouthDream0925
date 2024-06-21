@@ -54,6 +54,23 @@ Discord
 <table>  
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Gallerai Art</h3>
+      <br />
+      <a target="_blank" href="https://gallerai.ai">
+        <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/gallerai.png" width="100%" alt="eShop Website"/>
+      </a>
+      <br />
+      <p><strong>This is a Generative AI & Blockchain website.</strong></p>
+      <p align="center">
+        <!-- <a href="https://github.com/YouthDream0925/JobSheet" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/> -->
+        </a>
+        <a href="https://gallerai.ai" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Imaigination Avatar Generator</h3>
       <br />
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.imaigination.avatar" style="display: flex; justify-content: center">
@@ -67,6 +84,8 @@ Discord
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">HYDRA TOOL Website</h3>
         <br />
@@ -82,8 +101,6 @@ Discord
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Android Root Tool Website</h3>
         <br />
@@ -101,22 +118,6 @@ Discord
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Gallerai Art</h3>
-      <br />
-      <a target="_blank" href="https://gallerai.ai">
-        <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/gallerai.png" width="100%" alt="eShop Website"/>
-      </a>
-      <br />
-      <p><strong>This is a Generative AI & Blockchain website.</strong></p>
-      <p align="center">
-        <!-- <a href="https://github.com/YouthDream0925/JobSheet" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/> -->
-        </a>
-        <a href="https://gallerai.ai" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-        </a>
-      </p>
-    </td>
+    
   </tr>
 </table>
