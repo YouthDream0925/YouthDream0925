@@ -104,7 +104,7 @@ Discord
     <td width="50%" valign="top">
       <h3 align="center">Gallerai Art</h3>
       <br />
-      <a target="_blank" href="https://accesso.wp2reluis.com/">
+      <a target="_blank" href="https://gallerai.ai">
         <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/gallerai.png" width="100%" alt="eShop Website"/>
       </a>
       <br />
