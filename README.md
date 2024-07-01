@@ -8,13 +8,13 @@
 </div>
 <br/>
 
-<p>Plus 6 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>With over 6 years of experience in Full-Stack development, <br /> I am dedicated to delivering high-quality products while meeting deadlines with exceptional passion and commitment.
 
 - Frontend : React.js, Next.js, Vue.js, Nuxt.js
 - Backend : Python/Django, PHP/Laravel, ASP.NET/C#
 
-Very good experienced API developer.
-I am a passionate developer so I can do anything. **Nothing is impossible**, This is my notion.
+I am a highly experienced API developer with a strong belief that nothing is impossible.
+My enthusiasm for development drives me to overcome challenges and deliver outstanding results.
 
 Thank you.</p>
 
