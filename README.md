@@ -8,13 +8,7 @@
 </div>
 <br/>
 
-<p>With over 6 years of experience in Full-Stack development, <br /> I am dedicated to delivering high-quality products while meeting deadlines with exceptional passion and commitment.
-
-- Frontend : React.js, Next.js, Vue.js, Nuxt.js
-- Backend : Python/Django, PHP/Laravel, ASP.NET/C#
-
-I am a highly experienced API developer with a strong belief that nothing is impossible.
-My enthusiasm for development drives me to overcome challenges and deliver outstanding results.</p>
+<p>Accomplished Software Engineer with 6 years of experience specializing in the Python, Node.JS, React and Next.js ecosystem, and a proven track record in testing and performance optimization. Demonstrated leadership in guiding teams and implementing best practices in development.</p>
 
 <table>  
   <tr>
