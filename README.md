@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
     <img align="right" alt="Coding" height="250" width="400" src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/Profile%20image.gif">
-</div>
+</div> -->
 
 <br/>
 <div>
