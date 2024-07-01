@@ -18,39 +18,6 @@ I am a passionate developer so I can do anything. **Nothing is impossible**, Thi
 
 Thank you.</p>
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center;">
-<table>
-<tr>
-<td>
-Gmail
-</td>
-<td>
-Skype
-</td>
-<td>
-Telegram
-</td>
-<td>
-Discord
-</td>
-</tr>
-<tr>
-<td>
-    youthdream0925@gmail.com
-</td>
-<td>
-    live:.cid.7bfde7022e4c31ee
-</td>
-<td>
-    @BigDream0925
-</td>
-<td>
-    @youthdream0925
-</td>
-</tr>
-</table>
-</div>
-
 <table>  
   <tr>
     <td width="50%" valign="top">
