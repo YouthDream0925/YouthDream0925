@@ -2,11 +2,11 @@
     <img align="right" alt="Coding" height="250" width="400" src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/Profile%20image.gif">
 </div> -->
 
-<br/>
+<!-- <br/>
 <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Senior+Software+Engineer;" style="max-width: 100%;">
 </div>
-<br/>
+<br/> -->
 
 <p>Accomplished Software Engineer with 6 years of experience specializing in the Python, Node.JS, React and Next.js ecosystem, and a proven track record in testing and performance optimization. Demonstrated leadership in guiding teams and implementing best practices in development.</p>
 
