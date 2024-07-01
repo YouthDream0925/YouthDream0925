@@ -14,9 +14,7 @@
 - Backend : Python/Django, PHP/Laravel, ASP.NET/C#
 
 I am a highly experienced API developer with a strong belief that nothing is impossible.
-My enthusiasm for development drives me to overcome challenges and deliver outstanding results.
-
-Thank you.</p>
+My enthusiasm for development drives me to overcome challenges and deliver outstanding results.</p>
 
 <table>  
   <tr>
