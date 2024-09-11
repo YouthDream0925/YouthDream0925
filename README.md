@@ -13,6 +13,19 @@
 <table>  
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">MagicEdit</h3>
+      <br />
+      <a target="_blank" href="https://magicedit.app/">
+        <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/magic-edit.png" width="100%" alt="eShop Website"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://magicedit.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Gallerai Art</h3>
       <br />
       <a target="_blank" href="https://gallerai.ai">
@@ -20,14 +33,13 @@
       </a>
       <br />
       <p align="center">
-        <!-- <a href="https://github.com/YouthDream0925/JobSheet" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/> -->
-        </a>
         <a href="https://gallerai.ai" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Imaigination Avatar Generator</h3>
       <br />
@@ -41,8 +53,6 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">HYDRA TOOL Website</h3>
         <br />
@@ -51,28 +61,9 @@
         </a>
         <br />
       <p align="center">
-        <!-- <a href="https://github.com/YouthDream0925/HydroDongle" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>   -->
         <a href="https://hydradongle.com" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Android Root Tool Website</h3>
-        <br />
-        <a target="_blank" href="https://androidroottool.com/">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/androidroottool.png" width="100%"  alt="Android Root Tool Website"/>
-        </a>
-        <br />
-      <p align="center">
-        <!-- <a href="https://github.com/YouthDream0925/AndroidRootTool" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-        </a> -->
-        <a href="https://androidroottool.com/" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-        </a>
-      </p>
-    </td>
-    
   </tr>
 </table>
