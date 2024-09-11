@@ -54,7 +54,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">HYDRA TOOL Website</h3>
+      <h3 align="center">HYDRA TOOL</h3>
         <br />
         <a target="_blank" href="https://hydradongle.com">
             <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/hydra.png" width="100%" alt="HYDRA TOOL Website"/>
