@@ -48,7 +48,7 @@
         </a>
       <br />
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.imaigination.avatar" target="_blank">
+        <a href="https://apps.apple.com/tr/app/imaigination-avatars/id6469514893?platform=ipad" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=Mobile&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
