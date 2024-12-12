@@ -43,7 +43,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Imaigination Avatar Generator</h3>
       <br />
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.imaigination.avatar" style="display: flex; justify-content: center">
+        <a target="_blank" href="https://apps.apple.com/tr/app/imaigination-avatars/id6469514893?platform=ipad" style="display: flex; justify-content: center">
           <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/Imaigination_avatar_generator.png" width="100%" alt="Imaigination Avatar Generator" />
         </a>
       <br />
